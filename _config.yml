@@ -1,12 +1,12 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Vineyard'
+description: 'A Personal Blog '
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/mundana-theme-jekyll'
+baseurl: ''
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+email: 'isha.niraula312@gmail.com'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
 permalink: /:title/
@@ -19,22 +19,15 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+    isha:
+      name:           Isha
+      site:           https://isha-niraula.github.io
+      avatar:         assets/images/avatar2.jpg
+      bio:            "Hi, I am Isha, the author of Vineyard. I am an 18 year old girl from Nepal.I wanted to start a blog    of my own few years ago but because of my crazy habit of procastinating that coudn’t happen.So finally here I am with my blog :my thoughts,my complains,my diaries,my culture,my world.I believe everyone must contribute something to this world.The world runs because of the small change each individual makes.So I really hope my thoughts will make a small change in  the world! I hope you like it!"
+      email:          isha.niraula312@gmail.com
+      twitter:        https://twitter.com/ishh_hh
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
- 
+
 # Defaults
 defaults:
 
@@ -43,8 +36,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: isha
+      avatar: assets/images/avatar2.jpg
       
   # all pages
   - scope:
