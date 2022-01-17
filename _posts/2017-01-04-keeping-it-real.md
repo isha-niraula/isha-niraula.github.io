@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Keeping It Real"
+title:  "Keeping It Real:what if you had no artificial things to cover it up?"
 author: isha
 categories: [ blog ]
 image: assets/images/loveyou.jpeg
@@ -13,7 +13,7 @@ Today when I look around myself,I get terrified by the artificial things that su
 
 Technology is making things even worse.Apps can easily make you look beautiful,autotuning can make you sound beautiful and you can easily hide your identity behind your name on internet.But how long is it going to work?And where is it going to take you?Probably to a beautiful happy world that does not even exist!
 
-You might have the best life in the world but have you ever stopped for a second and thought:what if you had no artificial things to cover it up?No make up?No social networks?No technology?What are you without all these things?
+You might have the best life in the world but have you ever stopped for a second and thought:what if you had no artificial things to cover it up?No make up? No social networks?No technology?What are you without all these things?
 
 I am nobody to ask you these questions.And I cannot give you the answers either.But do you have the courage to ask these questions to yourself?
 
